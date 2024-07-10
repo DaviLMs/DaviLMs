@@ -5,9 +5,9 @@
 </p>
 
 <p align="left">
- 🫡  Linguagens: javascript , node js, html , css
+ 🫡  Linguagens:Javascript,Node js,Html,Css
 </p>
 
 <p align="left">
-  💼 Ferramentas: react , react native , next js
+  💼 Ferramentas:React,React Native,Next js
 </p>
