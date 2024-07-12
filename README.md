@@ -9,5 +9,5 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas:React,React Native,Next js
+  💼 Ferramentas:React,React Native,Next js, Reconhecimento Facial e de Objetos com AWS Rekognition
 </p>
