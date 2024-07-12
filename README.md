@@ -4,10 +4,6 @@
 "Olá! Tudo bem? Meu nome é Davi, sou programador e trabalho com tecnologias novas e úteis no mercado." 😊
 </p>
 
-<p align="left">
- 🫡  Linguagens:Javascript,Node js,Html,Css
-</p>
-
-<p align="left">
-  💼 Ferramentas:React,React Native,Next js, Reconhecimento Facial e de Objetos com AWS Rekognition
+<p>
+JavaScript,Web,Mobile,React(Next),AWS Rekognition
 </p>
