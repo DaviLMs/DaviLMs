@@ -5,5 +5,5 @@
 </p>
 
 <p>
-JavaScript,Web,Mobile,React(Next),AWS Rekognition
+Tools: JavaScript,Web,Mobile,React(Next),AWS Rekognition
 </p>
