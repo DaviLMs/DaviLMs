@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é Davi!
+##  Olá, meu nome é Davi!
 
 Faça uma breve aprensentação sobre você e a sua stack.
 
