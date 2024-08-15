@@ -1,6 +1,8 @@
 ##  Olá, meu nome é Davi!
 
-Meu nome é Davi, nasci em 2007 e sou um Programador
+Meu nome é Davi e sou um Programador Javacript 
+Faço ideias virarem realidade
+
 
 🔭 Crosssystem Tecnologia
 
