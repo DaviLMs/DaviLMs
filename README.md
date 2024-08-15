@@ -1,6 +1,6 @@
 Olá, eu sou o Davi!
 
-Sou um programador apaixonado por JavaScript, transformando ideias em realidade com soluções criativas e eficientes. Atualmente, faço parte da equipe da Crosssystem Tecnologia, onde colaboro para desenvolver tecnologias inovadoras.
+Sou um programador JavaScript, transformando ideias em realidade com soluções criativas e eficientes. Atualmente, faço parte da equipe da Crosssystem Tecnologia, onde colaboro para desenvolver tecnologias inovadoras.
 🚀 Minhas Skills
 Linguagens e Tecnologias
 
