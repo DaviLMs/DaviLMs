@@ -1,9 +1,6 @@
 
 ## Olá, meu nome é Davi!
 
-💬Quer entrar em contato?
-Numero:21980780312.
-
 ---
 
 ## 🚀 Minhas Skills
