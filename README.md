@@ -3,7 +3,6 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 💼 Trabalhando com a Crossystem 
 - 🌱 Aprendendo mais sobre Tec todo dia
   
 ## Minhas Skills
