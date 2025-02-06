@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou {Seu nome}</h1>
 
 <p align="center">
-  💻 Estudante de Programação | 🌍 Apaixonado por Tecnologia
+"💻 Transformando lógica em código com precisão e criatividade!"
 </p><br><br>
 
 
