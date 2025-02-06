@@ -12,6 +12,9 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
+tutall@tutamail.com
+
+## ______________________________________________________________________________________________
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviLMs&show_icons=true&theme=radical)
