@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou {Seu nome}</h1>
+<h1 align="center">👋 Olá, eu sou Davi Lamarca </h1>
 
 <p align="center">
 "💻 Transformando lógica em código com precisão e criatividade!"
