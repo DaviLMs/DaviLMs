@@ -23,5 +23,4 @@ E-mail: [tutall@tutamail.com](mailto:tutall@tutamail.com)
 
 <hr>
 
-<!-- GitHub Stats -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviLMs&show_icons=true&theme=radical)
