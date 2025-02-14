@@ -7,7 +7,7 @@
 <h2>Atualmente trabalhando na <a href="https://crosssystem.com.br/" target="_blank">Crossystem</a> como Desenvolvedor</h2>
 
 ## 🚀 Linguagens de Programação
-[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,react,nodejs)](https://skillicons.dev)
 
 <br>
 
