@@ -19,7 +19,7 @@
 <h3 align="center">🛠️ Ferramentas e Tecnologias</h3>
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linux,vscode,git,github,npm,robloxstudio,replit" alt="Minhas Ferramentas e Tecnologias">
+    <img src="https://skillicons.dev/icons?i=linux,vscode,git,github,npm,robloxstudio,replit,arduino" alt="Minhas Ferramentas e Tecnologias">
   </a>
 </p>
 
