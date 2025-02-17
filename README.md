@@ -6,11 +6,10 @@
 
 <h2 align="center">Atualmente trabalhando na <a href="https://crosssystem.com.br/" target="_blank">Crossystem</a> como Desenvolvedor</h2>
 
-
 <h3 align="center">🚀 Linguagens de Programação</h3>
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=javascript,html,css,react,nodejs" alt="Minhas Habilidades em Linguagens de Programação">
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,react,nodejs,typescript" alt="Minhas Habilidades em Linguagens de Programação">
   </a>
 </p>
 
@@ -35,5 +34,5 @@
 
 <h3 align="center">GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DaviLMs&show_icons=true&theme=radical" alt="Estatísticas do GitHub de Davi Lamarca">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviLMs&layout=compact" alt="Linguagens mais usadas por Davi Lamarca">
 </p>
