@@ -7,7 +7,6 @@
     <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,html,css" alt="My Programming Language Skills">
   </a>
 </p><br>
-
 <h3 align="center">🛠️ Tools and Technologies</h3>
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
@@ -16,7 +15,7 @@
 </p><br>
 
 <h3 align="center">📫 Contact</h3>
-<p align="center"> Email: <a href="mailto:tutall@tutamail.com">tutall@tutamail.com</a> </p><br>
+<p align="center"> Email: <a href="mailto:davidiscorddev@gmail.com">davidiscorddev@gmail.com</a> </p><br>
 <hr>
 
 <h3 align="center">GitHub Stats</h3>
