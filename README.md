@@ -10,7 +10,7 @@
 <h3 align="center">🛠️ Tools and Technologies</h3>
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linux,vscode,git,github,npm,robloxstudio,replit,react,arduino" alt="My Tools and Technologies">
+    <img src="https://skillicons.dev/icons?i=linux,vscode,git,github,npm,robloxstudio,replit,react" alt="My Tools and Technologies">
   </a>
 </p><br>
 
