@@ -4,7 +4,7 @@
 <h3 align="center">🚀 Programming Languages</h3>
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,html,css" alt="My Programming Language Skills">
+    <img src="https://skillicons.dev/icons?i=javascript,cs,nodejs,html,css" alt="My Programming Language Skills">
   </a>
 </p><br>
 <h3 align="center">🛠️ Tools and Technologies</h3>
